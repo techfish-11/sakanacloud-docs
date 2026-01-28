@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # このサービスについて
 
-SakanaCloud Labは、SakanaCloudが提供するホスティングサービスです。
+SakanaCloudLab Hostingは、SakanaCloudLabが提供するホスティングサービスです。
 このカテゴリでは、SakanaCloudLab Hostingの使用方法、機能、およびベストプラクティスについて説明します。左側のサイドバーからトピックを選択して、詳細をご覧ください。
 
 SakanaCloudLabは届出電気通信事業者ではありません。
